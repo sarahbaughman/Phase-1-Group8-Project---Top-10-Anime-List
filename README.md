@@ -1,9 +1,8 @@
-# Phase-1-Group8-Project---Top-10-Anime-List
+# Anime Rater - Top 10 Anime List
 
 ## Contributors:
 Sarah Baughman
 Brandon Ellison
-Ainsley Alceme
 
 ## Introduction
 The Anime Rater is a web application that displays a top 10 list of anime, as well as detailed information pertaining to each. The application allows the user to rate each anime, and add comments to each item. This project demonstrates the usage of a JSON database and javascript integration into a web application to create a functional front-end product. 
